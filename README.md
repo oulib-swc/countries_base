@@ -10,7 +10,7 @@ development and will be linked when complete.
 #### Use
 
 Import, **do not fork**, this repository to your host account on GitHub. Use the import
-utilty provided by GitHub at [https://import.github.com](https://import.github.com)
+utilty provided by GitHub at [https://github.com/new/import](https://github.com/new/import)
 
 #### Disclaimer
 
