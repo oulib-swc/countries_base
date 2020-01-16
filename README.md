@@ -7,12 +7,13 @@ to show an example workflow for  collaborating on a project. The lesson plan is 
 development and will be linked when complete. 
 
 
-####Use
+#### Use
 
 Import, **do not fork**, this repository to your host account on GitHub. Use the import
-untilty provided by GitHub at [https://import.github.com](https://import.github.com)
+utilty provided by GitHub at [https://github.com/new/import](https://github.com/new/import)
 
-####Disclaimer
+
+#### Disclaimer
 
 This is a work in progress
 
